@@ -8,3 +8,6 @@ The first purchases have been made and proof of fund expenditure is signed with 
 Please follow @satoshiops on twitter for the most current information.
 
 https://twitter.com/satoshiops/status/1484686584549048324
+
+Offical Website - https://airliftairwaves.com/
+(still being updated and built, information may not be most up to date).
