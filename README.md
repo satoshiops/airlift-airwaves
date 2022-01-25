@@ -1,9 +1,12 @@
 # airlift-airwaves
 
 You can verify all information published here with the following PGP key:
+
 https://github.com/satoshiops/airlift-airwaves/blob/main/Airlift%20Airwaves_0x161B3FFB_public.asc
 
-On-chain BTC address for donations can be found here: https://github.com/satoshiops/airlift-airwaves/blob/main/airlift-airwaves_on-chain_BTC.txt
+On-chain BTC address for donations can be found here: 
+
+https://github.com/satoshiops/airlift-airwaves/blob/main/airlift-airwaves_on-chain_BTC.txt
 
 Various pieces of information here are being signed and validated with that same PGP key as the onchain address to provide proof of work that BTC is being used for its stated purposes.  No further comment will be given, nor should be expected about redacted documents other than what is posted in the main twitter thread that started with fundraising announcement.
 
