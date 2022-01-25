@@ -8,7 +8,7 @@ Various pieces of information here are being signed and validated with that same
 
 Please follow @satoshiops on twitter for the most current information.
 
-Announcement: https://twitter.com/satoshiops/status/1484686584549048324
+1st Public Announcement: https://twitter.com/satoshiops/status/1484686584549048324
 
 Offical Website - https://airliftairwaves.com/
 (still being updated and built, information may not be most up to date)
