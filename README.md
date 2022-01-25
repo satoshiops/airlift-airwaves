@@ -15,7 +15,7 @@ Data has been separated into various folders:
 - `documents` - various documents related to the Airlift Airwaves projects
 - `emails` - redacted correspondence with officials, vendors, and other notable parties involved in the success of the project
 - `quotes` - PDFs and signatures involving quotes for services related to Airlift Airwaves
-- `recipts` - PDFs and signatures involving receipts for paid services involved with Airlift Airwaves
+- `receipts` - PDFs and signatures involving receipts for paid services involved with Airlift Airwaves
 - `translations` - Audio and text translations of important updates, mission statements, and announcements into relaxant languages
 
 Please follow @satoshiops on twitter for the most current information.
