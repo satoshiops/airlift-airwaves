@@ -14,9 +14,7 @@ Please follow @satoshiops on twitter for the most current information.
 
 1st Public Announcement: https://twitter.com/satoshiops/status/1484686584549048324
 
-Offical Website - https://airliftairwaves.com/
-
-(still being updated and built, information may not be most up to date)
+Offical Website - https://airliftairwaves.com/  (still being updated and built, information may not be most up to date)
 
 
 The following are PROOFS PUBLISHED - each is signed with the same PGP key that initiated the request for receiving funds in BTC.
