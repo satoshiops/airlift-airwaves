@@ -16,7 +16,8 @@ Offical Website - https://airliftairwaves.com/
 
 The following are PROOFS PUBLISHED - each is signed with the same PGP key that initiated the request for receiving funds in BTC.
 
-Validation from people that know me in real life.  They can attest to my authenticity and deliver an excellent overview of the missions we have tasked ourselves with at Airlift Airwaves.
+Validation from people that know me in real life.  They can attest to my authenticity and deliver an 
+excellent overview of the missions we have tasked ourselves with at Airlift Airwaves.
 https://github.com/satoshiops/airlift-airwaves/blob/main/2022.01.24_VERIFIED_Airlift-Airwaves_mission-overview
 
 Exploring the Proof of Work:
