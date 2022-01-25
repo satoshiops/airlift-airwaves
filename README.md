@@ -19,15 +19,19 @@ The following are PROOFS PUBLISHED - each is signed with the same PGP key that i
 
 Validation from people that know me in real life.  They can attest to my authenticity and deliver an 
 excellent overview of the missions we have tasked ourselves with at Airlift Airwaves.
+
 https://github.com/satoshiops/airlift-airwaves/blob/main/2022.01.24_VERIFIED_Airlift-Airwaves_mission-overview
 
 Exploring the Proof of Work:
+
 1st Expense and HF radio equipment acquisiton
 https://github.com/satoshiops/airlift-airwaves/blob/main/2022.01.24_email_Redacted_with-pics.pdf
 
 Communications equipment to support aerial operations and safety of flight team:
+
 https://github.com/satoshiops/airlift-airwaves/blob/main/2022.01.25_satcom_1_Redacted_Redacted.pdf
 https://github.com/satoshiops/airlift-airwaves/blob/main/2022.01.25_satcom_2_quote_Redacted.pdf
 
 Requests for independent, professional help to ensure mission success:
+
 https://github.com/satoshiops/airlift-airwaves/blob/main/expert-request_Redacted.pdf
