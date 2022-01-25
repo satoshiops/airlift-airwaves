@@ -1,6 +1,7 @@
 # airlift-airwaves
 
-You can verify all information published here with the PGP public key included in this repo.
+You can verify all information published here with the following PGP key:
+https://github.com/satoshiops/airlift-airwaves/blob/main/Airlift%20Airwaves_0x161B3FFB_public.asc
 
 On-chain BTC address for donations can be found here: https://github.com/satoshiops/airlift-airwaves/blob/main/airlift-airwaves_on-chain_BTC.txt
 
