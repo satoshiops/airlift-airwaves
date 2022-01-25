@@ -10,12 +10,19 @@ https://github.com/satoshiops/airlift-airwaves/blob/main/airlift-airwaves_on-cha
 
 Various pieces of information here are being signed and validated with that same PGP key as the onchain address to provide proof of work that BTC is being used for its stated purposes.  No further comment will be given, nor should be expected about redacted documents other than what is posted in the main twitter thread that started with fundraising announcement.
 
+Data has been separated into various folders:
+
+- `documents` - various documents related to the Airlift Airwaves projects
+- `emails` - redacted correspondence with officials, vendors, and other notable parties involved in the success of the project
+- `quotes` - PDFs and signatures involving quotes for services related to Airlift Airwaves
+- `recipts` - PDFs and signatures involving receipts for paid services involved with Airlift Airwaves
+- `translations` - Audio and text translations of important updates, mission statements, and announcements into relaxant languages
+
 Please follow @satoshiops on twitter for the most current information.
 
 1st Public Announcement: https://twitter.com/satoshiops/status/1484686584549048324
 
 Offical Website - https://airliftairwaves.com/  (still being updated and built, information may not be most up to date)
-
 
 The following are PROOFS PUBLISHED - each is signed with the same PGP key that initiated the request for receiving funds in BTC.
 
@@ -39,3 +46,4 @@ https://github.com/satoshiops/airlift-airwaves/blob/main/2022.01.25_satcom_2_quo
 Requests for independent, professional help to ensure mission success:
 
 https://github.com/satoshiops/airlift-airwaves/blob/main/expert-request_Redacted.pdf
+
